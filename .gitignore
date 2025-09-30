@@ -1,0 +1,10 @@
+.env
+logs/
+__pycache__/
+*.pyc
+airflow.db
+*.pid
+*.pid
+*.log
+.vscode/
+.idea/
