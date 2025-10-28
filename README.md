@@ -41,7 +41,7 @@ Projeto-PI-Backend/
 │   ├── services/
 │   └── utils/
 │
-├── .env              # (coloque suas variáveis aqui, mas não suba pro GitHub)
+├── .env              
 ├── requirements.txt
 └── README.md
 ```
